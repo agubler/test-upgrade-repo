@@ -1,7 +1,7 @@
 import WidgetBase from '@dojo/framework/widget-core/WidgetBase';
 import { v } from '@dojo/framework/widget-core/d';
 import uuid from '@dojo/framework/core/uuid';
-import request from '@dojo/framework/core/Request';
+import request from '@dojo/framework/core/request';
 import { Outlet } from '@dojo/framework/routing/Outlet';
 
 import * as css from './styles/helloWorld.m.css';
